@@ -1,6 +1,8 @@
 [package]
-name = "puzzle-hero"
+name = "server"
 version = "0.1.0"
 authors = ["Lance Lafontaine <lance.lafontaine92@gmail.com>"]
 
 [dependencies]
+rocket = "0.2.8"
+rocket_codegen = "0.2.8"
